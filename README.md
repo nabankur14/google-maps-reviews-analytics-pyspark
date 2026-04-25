@@ -4,7 +4,7 @@
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat)
 
-![Project Thumbnail](End%20-%20Thumbnail.png)
+![Project Thumbnail](assets/Thumbnail.png)
 
 End-to-end big data analytics pipeline on 500K+ Google Maps business reviews using PySpark, NLP, ALS Collaborative Filtering (RMSE 0.9896), ARIMA time series forecasting, and seasonal decomposition — delivering actionable business intelligence on customer behavior, review trends, and personalized recommendations.
 
@@ -72,8 +72,6 @@ Modern organizations operating local branches struggle to efficiently parse hund
  
  [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/nabankur14) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nabankur-ray-876582181/) 
  
-![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=nabankur14&show_icons=true)
-
 ⭐ If you like this project
 
 Give it a ⭐ on GitHub — it helps a lot!
